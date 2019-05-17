@@ -51,7 +51,7 @@ aside{
 article{
     color:#ebebeb;
     background: #777;
-    padding: 30px;
+    padding: 20px;
     margin:20px 10px 10px 10px;
     
 }
@@ -80,7 +80,7 @@ footer {
     padding:30px;
     margin:20px;;
     background-color:#ebebeb;
-    color: white;
+    color: #777;
     text-align: center;
     float:left;
 }
